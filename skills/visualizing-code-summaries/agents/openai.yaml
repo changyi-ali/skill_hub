@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visualize Code Summaries"
+  short_description: "Create colorful standalone HTML code diagrams"
+  default_prompt: "Create a standalone HTML visualization that summarizes the requested code architecture, feature, or commit changes."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dash Dev Server Remote"
+  short_description: "管理 dash-dev-server 地址、连接和服务器脚本读取"
+  default_prompt: "Use $dash-dev-server-remote to connect to dash-dev-server or update its remote IP."

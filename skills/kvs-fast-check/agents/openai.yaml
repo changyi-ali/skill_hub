@@ -1,0 +1,7 @@
+interface:
+  display_name: "KVS 快查"
+  short_description: "快速检测百炼模型服务并分析压测回答内容与乱码"
+  default_prompt: "使用 $kvs-fast-check 确认配置、预检模型服务并分析压测结果。"
+
+policy:
+  allow_implicit_invocation: true

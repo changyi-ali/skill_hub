@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage Personal Skills"
+  short_description: "Archive personal Skills in skill_hub"
+  default_prompt: "Archive this personal Skill in skill_hub, validate it, commit the exact changes, and push the configured upstream."
